@@ -1,3 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua'))()
 
-loadstring(game:HttpGet("https://pastebin.com/raw/Qedmvsb7"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Red409-eng/growagardenlol/refs/heads/main/spawner"))()
